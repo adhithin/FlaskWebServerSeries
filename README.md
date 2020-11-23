@@ -220,37 +220,34 @@ https://github.com/largecodeman1/Pokemon-Game
 
 ***Out of 5 points, #/5 ***
 
-***COMMUNICATION***
+***COMMUNICATION 20%***
 
 - Team members are active in Zoom, Slack and other Project team activities.  
 - Team members explain and justify their designs and coding.  Student present their projects (live or video recorded).  
 - Team members are actively seeking review and striving to improve their communications.
 
-***20%.***
 
-***CREATIVITY***
+***CREATIVITY 20%***
 
 - Each Individual assignments contained learning consideration and exploration opportunities.  
 - Consistent activity, learning, being proactive, and a genuine effort will lead toward the opportunities will enhance creativity.
 
-***20%***
 
-***COLLABORATION***
+***COLLABORATION 20%***
 
 - Team Members foster and build positive working experiences with Pair Share, Project Team, Class, and Teacher.  
 - Team Members have professional, appropriate, and ethical behavior.
 
-***20%.***
 
-***CRITICAL THINKING***
+***CRITICAL THINKING 20%***
 
 - Team members need to be engaged in finding solutions and in gaining understanding of technical material. 
 - Problem solving and effective criticism need to be exercised.
 
-***20%***
 
-***ARTIFACTS AND WITNESS***
+***ARTIFACTS AND WITNESS 20%***
 
-- demonstrating commitment and use through tangibles and witnessed accounts of effort being put in.
+- Demonstrating commitment and use through tangibles and witnessed accounts of effort being put in.
+- Effort and dedication throughout the trimester. 
 
-***20%***
+
