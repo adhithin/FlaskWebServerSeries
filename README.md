@@ -106,5 +106,48 @@ http://76.176.59.92:8080/
 
 ***Peer Evaluation by Dayita***
 
+**Adhithi**
+
+- Collaborated extremely well with team
+- Integrated game in raspberry π very well 
+- Contributed a lot of creative ideas
+
+**Zach**
+
+- Did a great job creating Pokemon Game Engine
+- Found and created original template for Pokemon Game
+- Creative with ideas and move sets in projects
+
+**Aiden**
+
+- Worked very well with the rest of group
+- Creative with website design and ASCII art in game 
+- Implemented post and Git skillfully into project
+
 ***Peer Evaluation by Zachary***
+
+**Adhithi**
+
+- Effectively worked with the team during our out of school and in school meetings.
+- Successfully delivered on deploying the web portfolio and project.
+- portfolio: 
+76.176.59.92:3000
+- game: 
+76.176.59.92:8080
+- Her creative contributions to the pokedex were very interesting and effective.
+- Some issues with delivering early on but improved much later.
+
+**Dayita**
+
+- Is the creative center of ideas and effectively made a collaborative effort.
+- https://github.com/largecodeman1/Pokemon-Game/commits/newmaster
+- Effectively made an effort to work on the code, despite previous lack of experience.
+- Made major improvements and completed many additions to the game and main page.
+
+**Aiden**
+
+- Worked well within team meetings both in and out of school.
+- Reliable person when needed and always there when I needed him.
+- Worked hard on implementing post and the github repositories
+- https://github.com/largecodeman1/Pokemon-Game
 
