@@ -193,3 +193,25 @@ https://github.com/largecodeman1/Pokemon-Game
 - His addition of the sprites in the game along with the additional pages in the pokedex
 - https://github.com/largecodeman1/Pokemon-Game/commits?author=largecodeman1
 
+# MVP Evaluation Rubric
+
+COMMUNICATION
+- Team members are active in Zoom, Slack and other Project team activities.  
+- Team members explain and justify their designs and coding.  Student present their projects (live or video recorded).  
+- Team members are actively seeking review and striving to improve their communications
+***20%.***
+CREATIVITY
+- Each Individual assignments contained learning consideration and exploration opportunities.  
+- Consistent activity, learning, being proactive, and a genuine effort will lead toward the opportunities will enhance creativity.
+***20%***
+***COLLABORATION***
+- Team Members foster and build positive working experiences with Pair Share, Project Team, Class, and Teacher.  
+- Team Members have professional, appropriate, and ethical behavior.
+***20%.***
+***CRITICAL THINKING***
+- Team members need to be engaged in finding solutions and in gaining understanding of technical material. 
+- Problem solving and effective criticism need to be exercised.
+***20%***
+***ARTIFACTS AND WITNESS***
+- demonstrating commitment and use through tangibles and witnessed accounts of effort being put in
+***20%***
