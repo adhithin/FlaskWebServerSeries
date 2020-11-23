@@ -195,6 +195,8 @@ https://github.com/largecodeman1/Pokemon-Game
 
 # MVP Evaluation Rubric
 
+***Out of 5 points, #/5 ***
+
 ***COMMUNICATION***
 
 - Team members are active in Zoom, Slack and other Project team activities.  
