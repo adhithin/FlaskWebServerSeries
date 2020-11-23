@@ -164,8 +164,32 @@ https://github.com/largecodeman1/Pokemon-Game
 - Worked hard on implementing post and the github repositories
 - https://github.com/largecodeman1/Pokemon-Game
 
-# Overall MVP 
+# MVPs + Creativity & Intangibles 
 
-The overall MVP was Aiden because of
+***Overall MVP***
+
+The overall MVP was **Aiden** because of
  his reliability and ability to complete assignments when asked with fidelity, such as the 15 different menus for game
 https://github.com/largecodeman1/Pokemon-Game
+
+***Creativity MVP***
+
+**5/5 Dayita** was the creativity MVP because of:
+- Her contributions to the game and pokepadlet
+- https://padlet.com/dayitar55247/tz0mxud5i694r1f2
+- Her idea to include the regions on the main page 
+- https://pokemon-game.aidencizek.repl.co/#team
+
+***Design and implementation MVP:***
+
+**5/5 Adhithi** was the design and imprementation MVP because of:
+- Her addition of the Ap CSP guidelines in the web portfolio as well many other changes to the webportfolio.
+- http://76.176.59.92:3000/apcsp
+- These were effectively implemented and embeded.
+
+***Artistic proficiency MVP:***
+
+**5/5 Aiden** was the Artistic proficiency MVP because of:
+- His addition of the sprites in the game along with the additional pages in the pokedex
+- https://github.com/largecodeman1/Pokemon-Game/commits?author=largecodeman1
+
