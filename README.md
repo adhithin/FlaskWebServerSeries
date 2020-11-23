@@ -7,6 +7,8 @@ Accumulation of everything our group has created for the flask web server series
 
 **39/40:** The web portfolio is working perfectly, it showcases all the group's projects and goals.The Pokemon game was successful and complete. It ran on both IntelliJ and, repl.it as well as was able to be deployed on a raspberry π. The game was integrated into the Night at the Museum. However, the game did have some bugs and flaws as if the wrong thing was typed into the terminal, the game needed to be re-ran, hence, 1 point was taken.
 
+***Individual Grades***
+
 **Adhithi 9/10**
 
 - Deployed the Raspberry pi and was able to successfully deploy both the web portfolio as well as the pokemon game. 
@@ -38,3 +40,48 @@ Accumulation of everything our group has created for the flask web server series
 - Deployed for the N@M when we needed it even though it was not my job.
 - Spent several hours working on the code and improving my overall mastery with flask
 - Came up with a creative way to implement post in our website
+
+# Peer Evaluation 
+
+***Peer Evaluation by Adhithi***
+
+**Aiden**
+
+- Very collaborative with the team. 
+- Communicated really well with everyone on each platform. 
+- Exhibited lots of critical thinking while coding the game engine. 
+- Creative with the pokemon game and design + layout. 
+
+**Dayita**
+- Really collaborated with the group. 
+- Was highly communicative on the platforms used for communication. 
+- Creative ideas while working on the Pokemon game + design. 
+- Demonstrated lots of critical thinking while learning skills.
+
+**Zach**
+- Super collaborative with the whole team as team leader 
+- Very communicative with organizing meet ups (zoom + discord) as well as ideas 
+- Displayed lots of critical thinking while accomplishing goals 
+- Creative with ideas to meet standards 
+
+***Peer Evaluation by Aiden*** 
+
+**Adhithi**
+- Collaborated very well with the group
+- Very helpful in designing and planning the game, providing useful feedback
+- Essential in completion of the project, deployed and hosted final project on raspberry pi
+
+**Dayita**
+- Collaborated cohesively with the rest of the team
+- Provided many useful ideas and plans for the project and game as a whole
+- Very useful and helpful in project management and general coding
+
+**Zach**
+- Collaborated very well with the rest of the team
+- Essential in project leading and creation, helped create and design a large portion of the project
+- Provided and used many important pieces of feedback on the project as a whole
+
+***Peer Evaluation by Dayita***
+
+***Peer Evaluation by Zachary***
+
