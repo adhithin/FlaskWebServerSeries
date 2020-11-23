@@ -39,7 +39,30 @@ https://github.com/largecodeman1/Pokemon-Game
 
 ***Overall Team Grade***
 
-**39/40:** The web portfolio is working perfectly, it showcases all the group's projects and goals.The Pokemon game was successful and complete. It ran on both IntelliJ and, repl.it as well as was able to be deployed on a raspberry π. The game was integrated into the Night at the Museum. However, the game did have some bugs and flaws as if the wrong thing was typed into the terminal, the game needed to be re-ran, hence, 1 point was taken.
+**39/40:** 
+
+Our web portfolio contains everything required with the inclusion of 
+1. Pair share
+2. AP CSP requirements
+3. DNHS coding resources
+
+Both websites include a README.md explaining their functions.
+- Pokemon game
+- Web portfolio
+
+We effectively integrated into the Night at the Museum with working links and without breaking the code.
+- http://ntm.nighthawkcoders.cf/period5/
+
+It ran on both IntelliJ and, repl.it as well as was able to be deployed on a raspberry π. 
+- python web portfolio:
+- http://76.176.59.92:3000/
+- pokemon game:
+- http://76.176.59.92:8080/
+
+Our Pokemon website includes: 
+- Class based programming 
+- Along with an embeded link.
+- Post implemented into the pokedex
 
 ***Individual Grades***
 
