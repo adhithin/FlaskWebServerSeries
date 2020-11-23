@@ -15,12 +15,25 @@ http://76.176.59.92:8080/
 
 ***Repl Links:*** 
 
+**Python Web Portfolio:**
+
+https://repl.it/join/pbstjvad-zachajoseph
+
+**Pokemon Game:**
+
+https://repl.it/@zachajoseph/Pokemon-Game#main.py
+
+
 
 ***Git Hub Links:***
 
 **Python Web Portfolio:**
 
+https://github.com/zachajoseph/Our-Python-Web-Portfolio
+
 **Pokemon Game:**
+
+https://github.com/largecodeman1/Pokemon-Game
 
 # Grading 
 
