@@ -164,3 +164,8 @@ https://github.com/largecodeman1/Pokemon-Game
 - Worked hard on implementing post and the github repositories
 - https://github.com/largecodeman1/Pokemon-Game
 
+# Overall MVP 
+
+The overall MVP was Aiden because of
+ his reliability and ability to complete assignments when asked with fidelity, such as the 15 different menus for game
+https://github.com/largecodeman1/Pokemon-Game
