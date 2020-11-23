@@ -5,11 +5,13 @@ Accumulation of everything our group has created for the flask web server series
 
 ***Raspberry Pi Deployment Links:*** 
 
-**Python Web Portfolio:**
+**Python Web Portfolio:** 
 
 http://76.176.59.92:3000/
 
 **Pokemon Game:**
+
+http://76.176.59.92:8080/
 
 ***Repl Links:*** 
 
@@ -31,6 +33,8 @@ http://76.176.59.92:3000/
 **Adhithi 9/10**
 
 - Deployed the Raspberry pi and was able to successfully deploy both the web portfolio as well as the pokemon game. 
+  http://76.176.59.92:3000/
+  http://76.176.59.92:8080/
 - Was communicative and collaborative through out the trimester. 
 - Helped start the pokedex for all pokemon and establish template.  
 - Launched the pair share journal website, the map to ap website to reflect on our progress, as well as embed links. 
