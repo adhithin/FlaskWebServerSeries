@@ -1,6 +1,25 @@
 # FlaskWebServerSeries
 Accumulation of everything our group has created for the flask web server series. 
 
+# Artifacts 
+
+***Raspberry Pi Deployment Links:*** 
+
+**Python Web Portfolio:**
+
+http://76.176.59.92:3000/
+
+**Pokemon Game:**
+
+***Repl Links:*** 
+
+
+***Git Hub Links:***
+
+**Python Web Portfolio:**
+
+**Pokemon Game:**
+
 # Grading 
 
 ***Overall Team Grade***
